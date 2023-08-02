@@ -1,0 +1,19 @@
+Name: Insert Dashes (---)
+Description: Inserts `---` at the cursor position up to 80 characters.
+Binding: set_new_chapter
+Interactive: false
+
+Name: Insert %$%
+Description: Inserts `%$%`
+Binding: set_exp_pipe
+Interactive: false
+
+Name: Insert ->
+Description: Inserts fwd assignment (`->`)
+Binding: set_fwd_assign
+Interactive: false
+
+Name: Insert |>
+Description: Inserts `|>`
+Binding: set_native_pipe
+Interactive: false
