@@ -1,4 +1,4 @@
-#' Insert dashes from courser position to up to 80 characters
+#' Insert dashes from curser position to up to 80 characters
 #'
 #' @return dashes inside RStudio
 set_new_chapter <- function(){
