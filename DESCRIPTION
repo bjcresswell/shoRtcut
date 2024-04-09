@@ -1,14 +1,15 @@
 Package: shoRtcut
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Provides Some Useful R Keyboard Shortcuts
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Ben Cresswell
+Maintainer: The package maintainer <bjcresswell@gmail.comt>
+Description: Allows quick access to exploded and native pipe, and forward assignment operators and the r studio chapter delineator 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
     rstudioapi
 RoxygenNote: 7.2.3
+URL: https://github.com/bjcresswell/shoRtcut
+BugReports: https://github.com/bjcresswell/shoRtcut/issues
